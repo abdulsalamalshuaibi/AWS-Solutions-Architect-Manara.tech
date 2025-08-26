@@ -9,7 +9,7 @@ This project demonstrates a scalable web application using EC2, Application Load
 - ASG automatically scales instances
 - Optional: RDS database for backend
 
-![Architecture Diagram](docs/Blank diagram.png)
+![Architecture Diagram](docs/Blankdiagram.png)
 
 ## Deployment
 1. Deploy the CloudFormation template in `infrastructure/cloudformation.yml`
