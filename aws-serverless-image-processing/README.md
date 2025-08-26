@@ -9,7 +9,7 @@ This project processes images uploaded to an S3 bucket using AWS Lambda. Process
 - **S3 Bucket (Output):** Stores processed images
 - Optional: API Gateway for direct uploads
 
-![Architecture Diagram](docs/architecture-diagram.png)
+![Architecture Diagram](docs/Blankboard.png)
 
 ## Deployment
 1. Deploy the CloudFormation template in `infrastructure/cloudformation.yml`
