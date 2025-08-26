@@ -9,7 +9,7 @@ A serverless REST API using AWS Lambda, API Gateway, and DynamoDB to manage simp
 - DynamoDB stores records
 - Optional: S3 hosts front-end
 
-![Architecture Diagram](docs/Blankboard.png)
+![Architecture Diagram](doc/Blankboard.png)
 
 ## Deployment
 1. Deploy the CloudFormation template in `infrastructure/cloudformation.yml`
